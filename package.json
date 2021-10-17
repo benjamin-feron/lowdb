@@ -36,6 +36,7 @@
     "LICENSE-PARITY",
     "LICENSE-PATRON"
   ],
+  "main": "./lib/index.js",
   "scripts": {
     "test": "npm run build && xv lib",
     "lint": "eslint src --ext .ts --ignore-path .gitignore",
