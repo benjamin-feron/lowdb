@@ -1579,10 +1579,9 @@ split2@^3.0.0:
   dependencies:
     readable-stream "^3.0.0"
 
-steno@^2.1.0:
+"steno@git+https://github.com/benjamin-feron/steno":
   version "2.1.0"
-  resolved "https://registry.yarnpkg.com/steno/-/steno-2.1.0.tgz#05a9c378ce42ed04f642cda6fcb41787a10e4e33"
-  integrity sha512-mauOsiaqTNGFkWqIfwcm3y/fq+qKKaIWf1vf3ocOuTdco9XoHCO2AGF1gFYXuZFSWuP38Q8LBHBGJv2KnJSXyA==
+  resolved "git+https://github.com/benjamin-feron/steno#66949987528ef9a530d080d87897311a216a20ab"
 
 string-width@^1.0.1:
   version "1.0.2"

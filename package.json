@@ -46,7 +46,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "steno": "^2.1.0"
+    "steno": "git+https://github.com/benjamin-feron/steno"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
